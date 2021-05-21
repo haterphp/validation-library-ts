@@ -1,0 +1,14 @@
+{
+  "name": "validation-library-rework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "watch": "tsc --watch | http-server"
+  },
+  "author": "haterphp",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}
